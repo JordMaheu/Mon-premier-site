@@ -1,0 +1,18 @@
+h1 { 
+    color:blue;
+    font-family: Impact, sans-serif;
+}
+
+h2 { 
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.legende1 { 
+    color: red;
+}
+
+.legende2 {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
